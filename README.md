@@ -15,7 +15,7 @@ projects_final - Core project information including costs. Downloaded from https
 
 proj_year_nodups_imputed_costs contains the final 221,891 unique funding years with costs after year 2000; created by matching project fiscal year (from projects_final) with publication year (from reporterpublink). If FY does not match publication year, costs were "imputed" from last year of core projects. Exclusion criteria: publication predates grant or grant predates publication by more than 4 years. Remove imputed costs after 2015 and before 2000.
 
-Current version: v1/April, 2017 (has partial 2017 information)
+Current version: v2/First week of May, 2020
 
 SQL Syntax is in NIH_dbvis_sql.sql
 
